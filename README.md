@@ -7,4 +7,5 @@ Mod Drop Managed Mods:
     Content Patcher
     Look Up Anything
     Farm Type Manager
+    Pony Weight Loss Program
     
